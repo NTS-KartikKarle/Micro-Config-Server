@@ -1,6 +1,6 @@
 spring:
   application:
-    name: PROD
+    name: Hotel-Service
 
 
 eureka:
